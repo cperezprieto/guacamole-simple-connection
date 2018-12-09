@@ -2,7 +2,7 @@
 Tomcat servlet to access through RDP to VMs using Guacamole.
 The access is done sending the needed Guacamole parameters inside a JWT.
 
-It can be run toghether with the [docker-guacamole](https://github.com/cperezprieto/docker-guacamole) project.
+It can be run together with the [docker-guacamole](https://github.com/cperezprieto/docker-guacamole) project.
 
 ## Build
 mvn package
